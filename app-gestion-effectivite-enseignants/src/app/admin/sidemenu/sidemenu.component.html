@@ -1,0 +1,19 @@
+<nav>
+    <a class="simple_link" [routerLink]="['/']">Retour Acceuil</a>
+    <ul id="sidemenu">
+        <li><a [routerLink]="['dashboard']">DASHBOARD</a></li>
+        <li>> user</li>
+        <ul>
+            <li><a [routerLink]="['user']">Liste</a></li>
+            <li><a [routerLink]="['user/add']">Ajouter Utilisateur</a></li>
+            <li><a [routerLink]="['user/delete']">Supprimer Utilisateur</a></li>
+        </ul>
+        <li>> Gestion Enseignements</li>
+        <ul>
+            <li><a [routerLink]="['gestion-enseignants']">Liste</a></li>
+            <li><a [routerLink]="['gestion-enseignants/gestion']">Gerer de l'effectivite</a></li>
+            <li><a [routerLink]="['gestion-enseignants/suivi']">Suivi des enseignements</a></li>
+            <li><a [routerLink]="['gestion-enseignants/verification']">Contenu</a></li>
+        </ul>
+    </ul>
+</nav>
