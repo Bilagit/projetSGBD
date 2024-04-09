@@ -1,1 +1,51 @@
-<p>login works!</p>
+<!--<div class="form_container">
+    <form name="form" 
+    #f="ngForm"
+    (ngSubmit)="f.form.valid && onSubmit()">
+
+        <div class="group">
+            <label for="email">Email</label>
+            <input type="text" name="email" id="email" [(ngModel)]="form.email" #email="ngModel" required>
+            <div class="form_error" *ngIf="email.errors && f.submitted">Email is required</div>
+        </div>
+       
+        <div class="group">
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password" [(ngModel)]="form.password" #password="ngModel" required>
+        </div>
+        
+        <div class="group">
+            <button>Login</button>
+        </div>
+    </form>
+</div>-->
+<!-- login.component.html -->
+<div class="form_container">
+    <form (ngSubmit)="onSubmit()" #form="ngForm" name="form">
+        <div class="group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" [(ngModel)]="email" required #emailField="ngModel">
+            <div class="form_error" *ngIf="form.submitted && emailField.invalid && emailField.errors?.['required']">Ce champ est requis !</div>
+        </div>
+        <div class="group">
+            <label for="password">Mot de passe:</label>
+            <input type="password" id="password" name="password" [(ngModel)]="password" required #passwordField="ngModel">
+            <div class="form_error" *ngIf="form.submitted && passwordField.invalid && passwordField.errors?.['required']">Ce champ est requis !</div>
+        </div>
+        <div class="group">
+            <label for="profile">Profil:</label>
+            <select id="profile" name="profile" [(ngModel)]="selectedProfile" required #profileField="ngModel">
+                <option value="" disabled selected>Choisissez un profil</option>
+                <option value="étudiant">Étudiant</option>
+                <option value="enseignant">Enseignant</option>
+            </select>
+            <div class="form_error" *ngIf="form.submitted && profileField.invalid && profileField.errors?.['required']">Ce champ est requis !</div>
+        </div>
+        <div class="group">
+            <button type="submit">Se connecter</button>
+        </div>
+    </form>
+</div>
+
+
+    

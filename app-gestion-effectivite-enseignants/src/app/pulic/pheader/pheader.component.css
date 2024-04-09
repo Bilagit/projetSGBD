@@ -1,0 +1,51 @@
+/* Style pour le header */
+header {
+    background-color: #007bff; /* Couleur de fond */
+    padding: 10px 0; /* Ajout de padding pour l'espace autour du contenu */
+}
+
+/* Style pour la navigation */
+nav {
+    display: flex; /* Utilisation de flexbox pour aligner les éléments */
+    justify-content: flex-end; /* Alignement des éléments à droite */
+    margin-bottom: 10px; /* Marge en bas pour décaler légèrement le menu du reste du contenu */
+}
+
+/* Style pour la liste des éléments du menu */
+#menu-list {
+    list-style-type: none; /* Suppression des puces de liste */
+    margin: 0;
+    padding: 0;
+    display: flex; /* Utilisation de flexbox pour aligner les éléments */
+}
+
+/* Style pour les éléments de la liste du menu */
+#menu-list li {
+    font-size: 20px; /* Taille de police */
+    margin-right: 20px; /* Espacement entre les éléments */
+}
+
+/* Style pour les liens dans le menu */
+#menu-list li a {
+    color: white; /* Couleur du texte */
+    text-decoration: none; /* Suppression des soulignements des liens */
+    transition: color 0.3s ease; /* Transition douce pour l'interaction utilisateur */
+}
+
+/* Changement de couleur au survol */
+#menu-list li a:hover {
+    color: #f8f9fa; /* Nouvelle couleur au survol */
+}
+
+/* Style pour le lien "Admin" */
+header a {
+    color: white; /* Couleur du texte */
+    text-decoration: none; /* Suppression des soulignements */
+    font-size: 20px; /* Taille de police */
+    margin-left: 20px; /* Espacement à gauche */
+}
+
+/* Changement de couleur au survol pour le lien "Admin" */
+header a:hover {
+    color: #f8f9fa; /* Nouvelle couleur au survol */
+}

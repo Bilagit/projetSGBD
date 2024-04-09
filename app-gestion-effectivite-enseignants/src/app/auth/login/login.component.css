@@ -1,0 +1,82 @@
+/*.form_container {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.form_container .group {
+    margin-bottom: 15px;
+}
+
+.form_container label {
+    display:block;
+}
+
+.form_container button {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.form_error {
+    color: red;
+}*/
+
+/* login.component.css */
+
+/* Définition d'un arrière-plan */
+/* Ajout d'un fond bleu clair avec transparence */
+/* Changement de couleur de fond du body en bleu foncé */
+body {
+   /* background-color: #143774;  Bleu foncé */
+    background-image: url('https://media.licdn.com/dms/image/C4E16AQGg9xosZKzYsQ/profile-displaybackgroundimage-shrink_200_800/0/1644578794864?e=2147483647&v=beta&t=ocucIRtuAms1IfcDs3QQMnJnLECbc6yMOglQZ21GyRY');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+/* Container principal du formulaire */
+.form_container {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+   /*  background-color: rgba(255, 255, 255, 0.8); Fond blanc avec 80% de transparence */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Groupe de champs dans le formulaire */
+.form_container .group {
+    margin-bottom: 25px;
+}
+
+/* Style des étiquettes */
+.form_container label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+/* Style des boutons */
+.form_container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+   /*  color: #fff; */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Changement de couleur au survol */
+.form_container button:hover {
+    background-color: #0056b3;
+}
+
+/* Style des messages d'erreur */
+.form_error {
+    color: red;
+    margin-top: 10px;
+}
