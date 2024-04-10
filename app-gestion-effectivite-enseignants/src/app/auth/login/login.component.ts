@@ -46,7 +46,9 @@ export class LoginComponent {
         this.router.navigate(['/profil-etudiant']);
       } else if (this.selectedProfile === 'enseignant') {
         this.router.navigate(['/profil-enseignant']);
-      }
+      } else if (this.selectedProfile === 'admin') {
+        this.router.navigate(['./auth/login']);
+      } 
     } else {
       // Affichage d'un message d'erreur si les informations de connexion sont incorrectes
       alert('Adresse email, mot de passe ou profil incorrect(s). Veuillez réessayer.');

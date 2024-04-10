@@ -1,6 +1,32 @@
 nav {
-    padding-left: 10px;
+    background-color: #2D313A; /* Dark blue background */
+    color: #fff; /* White text color */
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
 }
+
+.simple_link {
+    font-size: 18px;
+    font-weight: bold; /* Add some weight for emphasis */
+    transition: color 0.3s ease-in-out; /* Smooth color transition on hover */
+  }
+  
+  .simple_link:hover {
+    color: #00ADB5; /* Change color to a light blue on hover */
+  }
+
+  #sidemenu li {
+    margin-bottom: 10px;
+    padding: 10px 15px; /* Add some padding for better readability */
+    border-radius: 5px;
+    background-color: #373E47; /* Slightly darker background for menu items */
+    color: #fff; /* White text color for menu items */
+    transition: background-color 0.3s ease-in-out; /* Smooth background transition on hover */
+    cursor: pointer; /* Indicate clickable elements with cursor change */
+  }
+
+  
 #sidemenu {
     list-style: none;
     padding: 0px;
@@ -18,3 +44,6 @@ a {
     text-decoration: none;
     color: black;
 }
+
+
+  

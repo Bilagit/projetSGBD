@@ -38,6 +38,7 @@
                 <option value="" disabled selected>Choisissez un profil</option>
                 <option value="étudiant">Étudiant</option>
                 <option value="enseignant">Enseignant</option>
+                <option value="admin">Administrateur</option>
             </select>
             <div class="form_error" *ngIf="form.submitted && profileField.invalid && profileField.errors?.['required']">Ce champ est requis !</div>
         </div>

@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="path">ressource.qrc</file>
+        <file>../images/user-management-34.png</file>
+        <file>../images/istockphoto-2117187081-170x170.jpg</file>
+        <file>../images/sidebar-4.png</file>
+        <file>../images/task-query-1.png</file>
+        <file>../images/to-grant-authorization-8.png</file>
+        <file>../images/profil.png</file>
+        <file>../images/image.png</file>
+        <file>../images/dashboard.png</file>
+        <file>../images/profile.png</file>
+        <file>../images/syllabus.png</file>
+        <file>../images/avis.avif</file>
+        <file>../images/avis.png</file>
+        <file>../images/log_out.png</file>
+        <file>../images/menu.png</file>
+        <file>../images/search.png</file>
+    </qresource>
+    <qresource lang="french" prefix="/new/prefix1"/>
+</RCC>

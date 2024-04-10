@@ -4,6 +4,7 @@ import { ErrorComponent } from './_utils/error/error.component';
 import { AuthGuard } from './_helpers/auth.guard';
 import { ProfilEtudiantComponent } from './profil/profil-etudiant/profil-etudiant.component';
 import { ProfilEnseignantComponent } from './profil/profil-enseignant/profil-enseignant.component';
+import { AdminModule } from './admin/admin.module';
 
 
 const routes: Routes = [
