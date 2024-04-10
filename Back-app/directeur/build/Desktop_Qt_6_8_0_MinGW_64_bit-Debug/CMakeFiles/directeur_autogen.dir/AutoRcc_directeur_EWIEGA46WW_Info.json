@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/directeur/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/directeur_autogen",
+	"CMAKE_BINARY_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/directeur/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/directeur/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/directeur",
+	"CMAKE_SOURCE_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/directeur",
+	"INCLUDE_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/directeur/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/directeur_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/wamp64/www/Basic/projetSGBD/images/log_out.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/rapport.jpg",
+		"C:/wamp64/www/Basic/projetSGBD/images/profil.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/search.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/dashboard.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/pv.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/istockphoto-2117187081-170x170.jpg",
+		"C:/wamp64/www/Basic/projetSGBD/images/image.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/syllabus.png"
+	],
+	"LOCK_FILE" : "C:/wamp64/www/Basic/projetSGBD/Back-app/directeur/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/directeur_autogen.dir/AutoRcc_directeur_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "directeur" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_directeur.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/wamp64/www/Basic/projetSGBD/Back-app/directeur/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/directeur_autogen.dir/AutoRcc_directeur_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/wamp64/www/Basic/projetSGBD/Back-app/directeur/directeur.qrc",
+	"VERBOSITY" : 0
+}
