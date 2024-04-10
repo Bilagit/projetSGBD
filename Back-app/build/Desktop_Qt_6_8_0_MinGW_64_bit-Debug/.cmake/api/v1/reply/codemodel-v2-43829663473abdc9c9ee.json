@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0851a388595752f30bb1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Back-app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Back-app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Back-app-Debug-c96b67f3d4c2cbf1eff2.json",
+					"name" : "Back-app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Back-app_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Back-app_autogen-Debug-a1077640f1407995bf65.json",
+					"name" : "Back-app_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Back-app_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Back-app_autogen_timestamp_deps-Debug-bba36578826ff6e8a447.json",
+					"name" : "Back-app_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "C:/wamp64/www/Basic/projetSGBD/Back-app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

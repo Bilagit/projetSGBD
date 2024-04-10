@@ -1,0 +1,9 @@
+C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Back-app.dir
+C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Back-app_autogen_timestamp_deps.dir
+C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Back-app_autogen.dir

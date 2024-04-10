@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="path">ressource.qrc</file>
+    </qresource>
+    <qresource lang="f" prefix="/"/>
+</RCC>

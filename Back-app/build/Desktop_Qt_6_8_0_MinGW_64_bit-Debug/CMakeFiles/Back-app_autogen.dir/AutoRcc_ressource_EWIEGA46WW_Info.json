@@ -1,0 +1,37 @@
+{
+	"BUILD_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Back-app_autogen",
+	"CMAKE_BINARY_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app",
+	"CMAKE_SOURCE_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app",
+	"INCLUDE_DIR" : "C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Back-app_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/wamp64/www/Basic/projetSGBD/Back-app/ressource.qrc",
+		"C:/wamp64/www/Basic/projetSGBD/images/log_out.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/avis.avif",
+		"C:/wamp64/www/Basic/projetSGBD/images/task-query-1.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/sidebar-4.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/profil.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/search.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/user-management-34.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/dashboard.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/menu.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/profile.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/to-grant-authorization-8.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/avis.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/istockphoto-2117187081-170x170.jpg",
+		"C:/wamp64/www/Basic/projetSGBD/images/image.png",
+		"C:/wamp64/www/Basic/projetSGBD/images/syllabus.png"
+	],
+	"LOCK_FILE" : "C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Back-app_autogen.dir/AutoRcc_ressource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "ressource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_ressource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Back-app_autogen.dir/AutoRcc_ressource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/wamp64/www/Basic/projetSGBD/Back-app/ressource.qrc",
+	"VERBOSITY" : 0
+}

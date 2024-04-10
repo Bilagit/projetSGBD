@@ -1,0 +1,9 @@
+# ninja log v5
+2	1059	7344369204911584	Back-app_autogen/timestamp	9f1fc77c3fd73af0
+2	1059	7344369204911584	Back-app_autogen/mocs_compilation.cpp	9f1fc77c3fd73af0
+2	1059	7344369204911584	C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Back-app_autogen/timestamp	9f1fc77c3fd73af0
+1068	4874	7344369244143296	CMakeFiles/Back-app.dir/main.cpp.obj	b59189951d6d86f6
+4875	5229	7344369247633984	Back-app.exe	5494e696e4f3d3fc
+2	1059	7344369204911584	C:/wamp64/www/Basic/projetSGBD/Back-app/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Back-app_autogen/mocs_compilation.cpp	9f1fc77c3fd73af0
+1060	4727	7344369242673305	CMakeFiles/Back-app.dir/Back-app_autogen/mocs_compilation.cpp.obj	9d1104bec76dc1bf
+1081	4830	7344369243693261	CMakeFiles/Back-app.dir/firstclasse.cpp.obj	ff83354567a8aa2a
