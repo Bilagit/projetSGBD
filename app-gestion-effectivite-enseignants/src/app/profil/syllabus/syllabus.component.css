@@ -1,0 +1,23 @@
+/* syllabus.component.css */
+
+table {
+    width: 100%; /* Largeur du tableau */
+    margin: auto; /* Centrer le tableau horizontalement */
+    border-collapse: collapse; /* Fusionner les bordures des cellules */
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 15px solid #3498db; /* Bordures */
+    padding: 10px; /* Espacement intérieur */
+    text-align: center; /* Centrer le texte */
+  }
+  
+  th {
+    background-color: #3498db; /* Couleur de fond de l'en-tête */
+    color: #fff; /* Couleur du texte */
+  }
+  
+  h2 {
+    text-align: center;
+  }

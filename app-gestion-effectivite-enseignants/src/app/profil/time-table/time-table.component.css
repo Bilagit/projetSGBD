@@ -1,0 +1,38 @@
+/* timetable.component.css */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px; /* Espacement en bas du tableau */
+  }
+  
+  th, td {
+    border: 5px solid #0d0dc7; /* Bordures */
+    padding: 10px; /* Espacement intérieur */
+    text-align: center; /* Centrer le texte */
+    font-size: large;
+    color: darkblue;
+  }
+  
+  th {
+    background-color: #3498db; /* Couleur de fond de l'en-tête */
+    color: #fff; /* Couleur du texte */
+
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2; /* Couleur de fond des lignes paires */
+  }
+  
+  tr:hover {
+    background-color: #ddd; /* Couleur de fond au survol */
+  }
+
+  h2 {
+    text-align: center;
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+  }
+  

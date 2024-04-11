@@ -1,0 +1,28 @@
+/* style.css (ou le nom de votre fichier de styles) */
+
+table {
+    width: 90%; /* Largeur du tableau */
+    margin: auto; /* Pour centrer le tableau horizontalement */
+    border-collapse: collapse; /* Fusionner les bordures des cellules */
+  }
+  
+  th, td {
+    border: 10px solid #041546; /* Bordure des cellules */
+    padding: 8px; /* Espacement intérieur des cellules */
+    text-align: left; /* Alignement du texte à gauche */
+    font-weight: bolder;
+  }
+  
+  th {
+    background-color: #f2f2f2; /* Couleur de fond de l'en-tête */
+  }
+
+  /* Couleur de fond des lignes paires */
+ /* tr:nth-child(even) {
+    background-color: #f2f2f2; 
+  }*/
+  
+  tr:hover {
+    background-color: #ddd; /* Couleur de fond au survol */
+  }
+  

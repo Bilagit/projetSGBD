@@ -1,0 +1,23 @@
+<!-- modules-list.component.html -->
+<h2 style="text-align: center; text-decoration: solid;">MODULES</h2>
+<table>
+    <thead>
+      <tr>
+        <th>Module</th>
+        <th>Cours</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let module of modules">
+        <td>{{ module.name }}</td>
+        <td>
+          <ul>
+            <li *ngFor="let course of module.courses">{{ course }}</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+
