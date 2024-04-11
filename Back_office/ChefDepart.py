@@ -1,12 +1,12 @@
 from PySide6.QtCore import Qt
-from ui_respclasse import Ui_MainWindow
+from ui_ChefDepart import Ui_MainWindow
 from PySide6.QtWidgets import QApplication, QMainWindow, QPushButton
 
-class Myrespclasse(QMainWindow, Ui_MainWindow):
+class MyChefDepart(QMainWindow, Ui_MainWindow):
     def __init__(self):
         super().__init__()
         self.setupUi(self)
-        self.setWindowTitle("Resposta Classe")
+        self.setWindowTitle("Chef Departement")
         
         self.icon_name_widget.setHidden(True)
         

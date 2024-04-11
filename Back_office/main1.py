@@ -1,11 +1,12 @@
 from PySide6.QtWidgets import QApplication, QMainWindow, QPushButton
 import sys
-from ChefDepart import MyChefDepart
+from RP import MyRP
 
 app = QApplication(sys.argv)
 
-window = MyChefDepart()
+window = MyRP()
 
 window.show()
 app.exec()
+
 
