@@ -1,0 +1,24 @@
+/* profil-etudiant.component.css */
+
+.espace-etudiant {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #3498db; /* Bleu */
+    border-radius: 10px;
+  }
+  
+  .espace-etudiant button {
+    padding: 15px 30px;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 5px;
+    background-color: #2980b9; /* Bleu plus foncé */
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .espace-etudiant button:hover {
+    background-color: #1f618d; /* Bleu foncé au survol */
+  }
+  

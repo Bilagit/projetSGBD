@@ -67,7 +67,7 @@ font-weight:bold;
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap resource="ressource.qrc">:/images/profil.png</pixmap>
+      <pixmap resource="directeur/directeur.qrc">:/images/profil.png</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -86,7 +86,7 @@ font-weight:bold;
       <string/>
      </property>
      <property name="icon">
-      <iconset resource="ressource.qrc">
+      <iconset resource="directeur/directeur.qrc">
        <normaloff>:/images/log_out.png</normaloff>:/images/log_out.png</iconset>
      </property>
      <property name="checkable">
@@ -112,7 +112,7 @@ font-weight:bold;
       <item>
        <widget class="QPushButton" name="dashboard1">
         <property name="icon">
-         <iconset resource="ressource.qrc">
+         <iconset resource="directeur/directeur.qrc">
           <normaloff>:/images/dashboard.png</normaloff>:/images/dashboard.png</iconset>
         </property>
         <property name="checkable">
@@ -129,7 +129,7 @@ font-weight:bold;
          <string/>
         </property>
         <property name="icon">
-         <iconset resource="ressource.qrc">
+         <iconset>
           <normaloff>:/images/profile.png</normaloff>:/images/profile.png</iconset>
         </property>
         <property name="checkable">
@@ -146,7 +146,7 @@ font-weight:bold;
          <string/>
         </property>
         <property name="icon">
-         <iconset resource="ressource.qrc">
+         <iconset>
           <normaloff>:/images/task-query-1.png</normaloff>:/images/task-query-1.png</iconset>
         </property>
         <property name="checkable">
@@ -163,7 +163,7 @@ font-weight:bold;
          <string/>
         </property>
         <property name="icon">
-         <iconset resource="ressource.qrc">
+         <iconset resource="directeur/directeur.qrc">
           <normaloff>:/images/syllabus.png</normaloff>:/images/syllabus.png</iconset>
         </property>
         <property name="checkable">
@@ -180,7 +180,7 @@ font-weight:bold;
          <string/>
         </property>
         <property name="icon">
-         <iconset resource="ressource.qrc">
+         <iconset>
           <normaloff>:/images/avis.png</normaloff>:/images/avis.png</iconset>
         </property>
         <property name="checkable">
@@ -258,7 +258,7 @@ font-weight:bold;
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap resource="ressource.qrc">:/images/image.png</pixmap>
+        <pixmap resource="directeur/directeur.qrc">:/images/image.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -272,6 +272,9 @@ font-weight:bold;
          <pointsize>12</pointsize>
          <bold>true</bold>
         </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true"/>
        </property>
        <property name="text">
         <string>Responsable Classe</string>
@@ -292,7 +295,7 @@ font-weight:bold;
           <string>Dashboard</string>
          </property>
          <property name="icon">
-          <iconset resource="ressource.qrc">
+          <iconset resource="directeur/directeur.qrc">
            <normaloff>:/images/dashboard.png</normaloff>:/images/dashboard.png</iconset>
          </property>
          <property name="iconSize">
@@ -318,7 +321,7 @@ font-weight:bold;
           <string>Profil</string>
          </property>
          <property name="icon">
-          <iconset resource="ressource.qrc">
+          <iconset>
            <normaloff>:/images/profile.png</normaloff>:/images/profile.png</iconset>
          </property>
          <property name="checkable">
@@ -335,7 +338,7 @@ font-weight:bold;
           <string>Constater Effectivite Cours</string>
          </property>
          <property name="icon">
-          <iconset resource="ressource.qrc">
+          <iconset>
            <normaloff>:/images/task-query-1.png</normaloff>:/images/task-query-1.png</iconset>
          </property>
          <property name="checkable">
@@ -352,7 +355,7 @@ font-weight:bold;
           <string>Syllabus</string>
          </property>
          <property name="icon">
-          <iconset resource="ressource.qrc">
+          <iconset resource="directeur/directeur.qrc">
            <normaloff>:/images/syllabus.png</normaloff>:/images/syllabus.png</iconset>
          </property>
          <property name="checkable">
@@ -369,7 +372,7 @@ font-weight:bold;
           <string>Avis Etudiant</string>
          </property>
          <property name="icon">
-          <iconset resource="ressource.qrc">
+          <iconset>
            <normaloff>:/images/avis.png</normaloff>:/images/avis.png</iconset>
          </property>
          <property name="checkable">
@@ -406,7 +409,7 @@ font-weight:bold;
         <string>Deconnexion</string>
        </property>
        <property name="icon">
-        <iconset resource="ressource.qrc">
+        <iconset resource="directeur/directeur.qrc">
          <normaloff>:/images/log_out.png</normaloff>:/images/log_out.png</iconset>
        </property>
        <property name="checkable">
@@ -460,7 +463,7 @@ border:none;</string>
         <string/>
        </property>
        <property name="icon">
-        <iconset resource="ressource.qrc">
+        <iconset>
          <normaloff>:/images/menu.png</normaloff>:/images/menu.png</iconset>
        </property>
        <property name="iconSize">
@@ -503,7 +506,7 @@ border:none;</string>
         <string/>
        </property>
        <property name="icon">
-        <iconset resource="ressource.qrc">
+        <iconset resource="directeur/directeur.qrc">
          <normaloff>:/images/search.png</normaloff>:/images/search.png</iconset>
        </property>
        <property name="iconSize">
@@ -542,7 +545,7 @@ border:none;</string>
         <string/>
        </property>
        <property name="icon">
-        <iconset resource="ressource.qrc">
+        <iconset resource="directeur/directeur.qrc">
          <normaloff>:/images/profil.png</normaloff>:/images/profil.png</iconset>
        </property>
        <property name="iconSize">

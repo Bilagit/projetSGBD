@@ -19,9 +19,12 @@ const routes: Routes = [
   {path: 'auth', loadChildren: () => import('./auth/auth.module')
   .then(m => m.AuthModule)
   },
+  {
+    path: 'profil', loadChildren: () => import('./profil/profil.module')
+    .then(m => m.ProfilModule)
+  },
 
-  { path: 'profil-etudiant', component: ProfilEtudiantComponent },
-  { path: 'profil-enseignant', component: ProfilEnseignantComponent },
+
 
   {path: '**', component: ErrorComponent}
  
